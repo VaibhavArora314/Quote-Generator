@@ -45,13 +45,13 @@ body {
     line-height: 1.5;
 }
 
-.main-content .person {
+.main-content .character {
     font-size: 1.6rem;
     text-transform: uppercase;
     margin-top: 20px;
 }
 
-.main-content .source {
+.main-content .anime {
     font-size: 1.4rem;
 }
 
